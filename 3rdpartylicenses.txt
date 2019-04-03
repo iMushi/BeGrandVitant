@@ -233,10 +233,6 @@ SOFTWARE.
 MIT
 MIT
 
-@angular/http@5.2.10
-MIT
-MIT
-
 @angular/cdk@5.2.4
 MIT
 The MIT License
